@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKs2pI0shfnHJnjWuubx1voh6mB7fkPHs8d5JuXSLOFeJOE0Ilxgb1pjxkEt+D0sxPgBYCQ5rN4sNyuEvg6A2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALEXANDRA\\Desktop\\Taller en clase - ADO.net\\GestionFilamentosADO\\GestionFilamentosADO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
